@@ -1,0 +1,42 @@
+body
+{
+	background-image: url("alliance.gif");
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	color:black;
+	
+
+}
+
+ul li
+{
+	
+	width: 80%;
+	height: 100px;
+	float: left;
+	margin :auto  80px 80px 80px;
+	text-align: center;
+	display: inline-block;
+	padding-top: 50px;
+	padding: 20px 20px 20px 20px;
+	font-size: 200%;
+	font-family: verdana;
+	float: left;
+	margin-right: 70px;
+	padding right: : 80px;
+
+a {
+	display: block;
+	border: 1px solid #0066ff;
+}
+
+	
+
+
+
+
+
+
+	
+	
